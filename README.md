@@ -1,7 +1,7 @@
 # CODSOFT
  UI/UX design Tasks/projects 
- TASK 1
-
+ 
+ # TASK 1
 Mobile App Signup Flow
 
 ![welcome](https://github.com/Tdphimasha/CODSOFT/assets/96642932/603c7fe0-55e0-4db5-aa33-99eb1fe1cf25)
