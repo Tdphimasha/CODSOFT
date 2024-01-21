@@ -4,12 +4,18 @@
  # TASK 1
 Mobile App Signup Flow
 
-![welcome](https://github.com/Tdphimasha/CODSOFT/assets/96642932/603c7fe0-55e0-4db5-aa33-99eb1fe1cf25)
+
+![2](https://github.com/Tdphimasha/CODSOFT/assets/96642932/a921aeb3-d749-4afe-a17a-a8acbe7ec847)
 
 
+ # TASK 2
+Email Template
 
-![sign up (1)](https://github.com/Tdphimasha/CODSOFT/assets/96642932/f772eab7-cb92-4f99-aaec-24328973d3d1)
+
+![3](https://github.com/Tdphimasha/CODSOFT/assets/96642932/038e9998-e6bf-4c8d-8eae-8c734ab71a08)
 
 
+# TASK 3
+Restaurant Menu
 
-![login (1)](https://github.com/Tdphimasha/CODSOFT/assets/96642932/3859dbf1-3fb9-4cd7-a33a-937364f2745e)
+![2](https://github.com/Tdphimasha/CODSOFT/assets/96642932/d195fbc8-c085-4ed4-a4a2-2f4f450313e8)
